@@ -4,3 +4,7 @@ El objetivo de este desafío es ayudar al señor Juan a decidir qué tienda debe
 Te han contratado para realizar este análisis. Tu jefe nos ha pedido que hagas la evaluación basándose en estos cinco aspectos: facturación total de cada tienda, es decir, cuál tienda vende más; cuáles son las categorías más populares de cada tienda, es decir, cuáles productos se venden más en cada tienda; cuál es el promedio de evaluación de cada uno de los clientes; cuáles son los productos más y menos vendidos en cada tienda; y cuál es el costo promedio del envío desde la tienda hasta el lugar de cada uno de los clientes.
 
 Con estos datos, ayudara al señor Juan a tomar una decisión fundamental y estratégica.
+
+<img src="AluraStore.png" width="500">
+
+Antes del análisis técnico, se realizó un mapeo de las variables disponibles (Precio, Envío, Calificación, etc.) para identificar cuáles impactan directamente en el lucro y la eficiencia de cada tienda.
