@@ -21,6 +21,7 @@ Para entender la base de nuestro análisis, a continuación se presenta el esque
 
 ## 📈 Visualizaciones Destacadas
 El análisis se apoyó en un dashboard integral que revela la desconexión entre el volumen de ingresos y la eficiencia operativa en puntos críticos de la cadena.
+
 <img src="Dashboard.png" width="500">
 
 ## 💡 Conclusión 
@@ -32,6 +33,8 @@ Tras el análisis, la recomendación profesional para el Sr. Juan es la **venta 
 2. **Logística Crítica:** Presenta el costo de envío promedio más alto del grupo ($26,018). Dado que el cliente absorbe este gasto, la tienda pierde competitividad frente a opciones más económicas.
 3. **Reputación en Riesgo:** Es la sucursal con la calificación más baja (3.97). Los datos muestran que el elevado costo de envío y la gestión de categorías pesadas (Muebles) están afectando directamente la percepción de la marca.
 4. **Costo de Oportunidad:** Mientras la Tienda 1 lucha con ineficiencias, la **Tienda 4** demuestra que es posible mantener costos bajos y la **Tienda 3** lidera en satisfacción. Vender la Tienda 1 permitiría reinvertir capital en estas sucursales de alto rendimiento.
+
+---
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Clonar este repositorio o cargar el archivo `.ipynb` en [Google Colab](https://colab.research.google.com/).
